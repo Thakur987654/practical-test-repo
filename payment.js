@@ -1,0 +1,1 @@
+Minimum first payment logic
